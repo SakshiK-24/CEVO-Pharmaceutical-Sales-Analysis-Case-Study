@@ -32,7 +32,7 @@ Extracted the Month and Month Name from Date column
 - Developed a structured report and presentation to communicate insights and business recommendations
 
 ## 📊 Dashboard
-![Breast Cancer Dashboard](images/Dashboardf.png)
+![CEVO Pharma Sales Dashboard](images/Dashboardf1.png)
 
 ## 📈 Key Insights
 - 💰 Total Revenue: $1.13M vs Marketing Spend: $2.81M → Significant loss of $1.69M
