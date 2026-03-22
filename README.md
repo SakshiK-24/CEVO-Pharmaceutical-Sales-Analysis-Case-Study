@@ -32,6 +32,7 @@ Extracted the Month and Month Name from Date column
 - Developed a structured report and presentation to communicate insights and business recommendations
 
 ## 📊 Dashboard
+![Breast Cancer Dashboard](images/Dashboardf.png)
 
 ## 📈 Key Insights
 - 💰 Total Revenue: $1.13M vs Marketing Spend: $2.81M → Significant loss of $1.69M
@@ -53,10 +54,10 @@ Extracted the Month and Month Name from Date column
 - Power BI (Dashboard & Visualization)
 
 ## 📁 Project Files
-- cevo_pharma_raw_data_2024.xlsx- Raw dataset
-- Cleaned_CEVO_Pharma_Sales_Analysis.xlsx- Excel analysis file (Pivot tables and EDA)
-- CEVO_Pharma_Sales_Dashboard.pbix- PowerBI Dashboard
-- CEVO_Pharma_Sales_Report.pdf- Report file
-- CEVO_Pharma_Sales_Analysis_PPT.pdf- Presentation in pdf format
-- images/- Dashboard photo which is used in README.md
+- **cevo_pharma_raw_data_2024.xlsx**- Raw dataset
+- **Cleaned_CEVO_Pharma_Sales_Analysis.xlsx**- Excel analysis file (Pivot tables and EDA)
+- **CEVO_Pharma_Sales_Dashboard.pbix**- PowerBI Dashboard
+- **CEVO_Pharma_Sales_Report.pdf**- Report file
+- **CEVO_Pharma_Sales_Analysis_PPT.pdf**- Presentation in pdf format
+- **images/**- Dashboard photo which is used in README.md
 
