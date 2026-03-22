@@ -35,7 +35,7 @@ Extracted the Month and Month Name from Date column
 
 ## 📈 Key Insights
 - 💰 Total Revenue: $1.13M vs Marketing Spend: $2.81M → Significant loss of $1.69M
-- 💊 CEVO avg pricing (~$22) was higher than competitors (~$19), impacting adoption  
+- 💊 CEVO avg pricing ($22) was higher than competitors ($19), impacting adoption  
 - 📊 Webinars and Sales Visits performed better than Medical Conferences  
 - 👨‍⚕️ Pulmonologists contributed the highest share of prescriptions  
 - 🌍 South region showed comparatively lower performance
