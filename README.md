@@ -12,6 +12,7 @@ The company now aims to relaunch the drug in 2026 and requires insights into:
 
 ## 📂 Dataset Description
 - The dataset used in this project is **fictional** and created for analytical purposes.
+- The company name "CEVO Pharma" and product details are simulated to represent a real-world pharmaceutical business scenario.
 - It contains ~2500 rows of 2024 sales data including:
   - Date  
   - Region & City  
